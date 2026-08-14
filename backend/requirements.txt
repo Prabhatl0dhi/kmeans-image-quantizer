@@ -1,4 +1,5 @@
-fastapi
-pillow
 numpy
-tqdm
+pillow
+fastapi
+uvicorn
+python-multipart
