@@ -1,0 +1,4 @@
+fastiapi
+pillow
+numpy
+tqdm
