@@ -1,4 +1,4 @@
-fastiapi
+fastapi
 pillow
 numpy
 tqdm
