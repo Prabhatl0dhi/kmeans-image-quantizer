@@ -1,4 +1,4 @@
-from backend.image_quantization import Quantize
+from image_quantization import Quantize
 from fastapi import FastAPI, UploadFile, Response
 import io
 import numpy as np
