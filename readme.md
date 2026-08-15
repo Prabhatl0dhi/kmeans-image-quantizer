@@ -29,8 +29,8 @@ It began as a from-scratch algorithm exercise and grew into a full web applicati
 | Resource | Link |
 |---|---|
 | 🧑‍💻 GitHub | [github.com/Prabhatl0dhi](https://github.com/Prabhatl0dhi) |
-| 🌐 Streamlit App | |
-| ⚙️ FastAPI Backend ||
+
+
 
 ---
 
