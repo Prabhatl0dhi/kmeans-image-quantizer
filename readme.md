@@ -287,6 +287,4 @@ Data → Algorithm → Optimization → Application Logic → API → Frontend �
 ## 👨‍💻 Author
 
 **Prabhat Kumar**
-B.Tech Computer Science and Engineering (AI & ML)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Prabhatl0dhi-181717?style=flat-square&logo=github)](https://github.com/Prabhatl0dhi)
